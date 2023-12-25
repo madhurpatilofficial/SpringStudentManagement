@@ -16,7 +16,7 @@ public class StudentManagementApplication {
 
 //Now I want to use a frontend application for our application using Angular, I have created the angular application I request you to give me the complete code for angular connecting Spring boot application.....
 //Below is the app.component.ts file for your reference........
-//Note that I have changed the port number of springboot to 7283.
+//Note that I have changed the port number of springboot to 9090.
 //
 //
 //
